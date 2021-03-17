@@ -1,4 +1,4 @@
-#IoT Keretrendszerek és Ipari Alkalmazásaik
+# IoT Keretrendszerek és Ipari Alkalmazásaik
 
 Szükség van telepített [NodeJS](https://nodejs.org/en/download/) -re.
 
